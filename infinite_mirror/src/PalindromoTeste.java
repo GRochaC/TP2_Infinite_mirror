@@ -19,4 +19,19 @@ public class PalindromoTeste {
     public void stringDois() {
         assertEquals(false, pal.verificar("null"));
     }
+
+    @Test
+    public void stringDois() {
+        assertEquals(true, pal.verificar("abba"));
+    }
+
+    @Test
+    public void stringDois() {
+        assertEquals(true, pal.verificar("arara"));
+    }
+
+    @Test
+    public void stringDois() {
+        assertEquals(true, pal.verificar("omississimo"));
+    }
 }
