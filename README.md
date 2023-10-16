@@ -4,9 +4,13 @@ Códigos e testes utilizados na video aula sobre a técnica de programação Inf
 ## Integrantes do Grupo:
 
 Arthur Diehl Barroso 			- 221029991
+
 Gabriel Henrique do Nascimento Neres 	- 221029140
+
 Guilherme da Rocha Cunha 		- 221030007
+
 Lucas Teixeira de Souza 		- 221017041
+
 Sara Gaspar Lima 			- 221017121
 
 Link para o repositório GitHub: **https://github.com/GRochaC/TP2_Infinite_mirror/tree/main**
