@@ -21,17 +21,17 @@ public class PalindromoTeste {
     }
 
     @Test
-    public void stringDois() {
+    public void stringTres() {
         assertEquals(true, pal.verificar("abba"));
     }
 
     @Test
-    public void stringDois() {
+    public void stringQuatro() {
         assertEquals(true, pal.verificar("arara"));
     }
 
     @Test
-    public void stringDois() {
+    public void stringCinco() {
         assertEquals(true, pal.verificar("omississimo"));
     }
 }
