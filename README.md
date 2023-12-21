@@ -20,12 +20,14 @@ Para executar os códigos disponibilizados no GitHub, os quais estão em Java, s
 
 Os códigos disponibilizados não possuem uma "Main", dessa forma não são executados apenas ao rodar o código. Para serem testados manualmente, será preciso declarar uma "Main", seguindo a sintaxe do Java, e nela instanciar um objeto da classe que deseja ser testada e fazer o chamado do método a ser testado. Exemplo para a classe Fatoracao:
 
-class teste{
-    public static void main(String[] args) {
-        Fatoracao fat = new Fatoracao();
-	      System.out.println(fat.calcular(10));
-    }
-}
+	class teste{
+	    public static void main(String[] args) {
+	        Fatoracao fat = new Fatoracao();
+		      System.out.println(fat.calcular(10));
+	    }
+	}
+
+
 
 Para executar os módulos de Teste que foram enviados, pode ser utilizado a IDE VSCode utilizando o interpretador Java. Ao colocar a classe e a classe de Testes no mesmo pacote, é possível executar os testes pelo botão que aparece ao lado da declaração da classe de testes, o que executa todos os testes de uma vez.
 
